@@ -1,4 +1,4 @@
-# 👷 `worker-template` Hello World
+# 👷 `worker-template` Cassandra's first project using JS
 
 A template for kick starting a Cloudflare worker project.
 
