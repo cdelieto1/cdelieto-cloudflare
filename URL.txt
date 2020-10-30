@@ -1,0 +1,3 @@
+Cassandra's workers.dev deployed link to the cloudflare take-home challenge, including extra credit:
+
+https://cdelieto-cloudflare.cassandradelieto.workers.dev

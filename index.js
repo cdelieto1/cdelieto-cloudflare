@@ -5,9 +5,11 @@ const myLinks = [{ "name": "HerbMates app", "url": "https://github.com/cdelieto1
 const mySocialLinks = [{ "image": "https://simpleicons.org/icons/facebook.svg", "url": "https://facebook.com" }, { "image": "https://simpleicons.org/icons/linkedin.svg", "url": "https://linkedin.com" }, { "image": "https://simpleicons.org/icons/twitter.svg", "url": "https://twitter.com" }
 ]
 const myName = "Cassandra Delieto"
+
 const mySocialName = "Cassie"
 
 const externalUrl = "https://static-links-page.signalnerve.workers.dev"
+
 const externalAvatarUrl = "https://content.internetvideoarchive.com/content/hdphotos/12982/012982/012982_682x511_637333931678824393.jpg"
 
 
